@@ -1,0 +1,35 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="FbPopular" EntryPointType="FbPopular.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="FbPopular" Source="FbPopular.dll" />
+    <AssemblyPart x:Name="GoogleAds" Source="GoogleAds.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks" Source="Microsoft.Threading.Tasks.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions" Source="Microsoft.Threading.Tasks.Extensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions.Phone" Source="Microsoft.Threading.Tasks.Extensions.Phone.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Extensions" Source="System.Net.Http.Extensions.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+    <AssemblyPart Source="de-AT/FbPopular.resources.dll" />
+    <AssemblyPart Source="de-DE/FbPopular.resources.dll" />
+    <AssemblyPart Source="de/FbPopular.resources.dll" />
+    <AssemblyPart Source="el-GR/FbPopular.resources.dll" />
+    <AssemblyPart Source="el/FbPopular.resources.dll" />
+    <AssemblyPart Source="en-AU/FbPopular.resources.dll" />
+    <AssemblyPart Source="en-CA/FbPopular.resources.dll" />
+    <AssemblyPart Source="en/FbPopular.resources.dll" />
+    <AssemblyPart Source="es/FbPopular.resources.dll" />
+    <AssemblyPart Source="fr-BE/FbPopular.resources.dll" />
+    <AssemblyPart Source="fr-CA/FbPopular.resources.dll" />
+    <AssemblyPart Source="fr-FR/FbPopular.resources.dll" />
+    <AssemblyPart Source="fr/FbPopular.resources.dll" />
+    <AssemblyPart Source="it-CH/FbPopular.resources.dll" />
+    <AssemblyPart Source="it-IT/FbPopular.resources.dll" />
+    <AssemblyPart Source="it/FbPopular.resources.dll" />
+    <AssemblyPart Source="de-DE/Microsoft.Phone.Controls.Toolkit.resources.dll" />
+    <AssemblyPart Source="el-GR/Microsoft.Phone.Controls.Toolkit.resources.dll" />
+    <AssemblyPart Source="fr-CA/Microsoft.Phone.Controls.Toolkit.resources.dll" />
+    <AssemblyPart Source="fr-FR/Microsoft.Phone.Controls.Toolkit.resources.dll" />
+    <AssemblyPart Source="it-IT/Microsoft.Phone.Controls.Toolkit.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

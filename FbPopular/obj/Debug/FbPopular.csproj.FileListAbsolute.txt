@@ -1,0 +1,436 @@
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\FbPopular.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\FbPopular.pdb
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\AppManifest.xaml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\FbPopular_Debug_AnyCPU.xap
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.xml
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\App.g.cs
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\MainPage.g.cs
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.g.resources
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.resources
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.csproj.GenerateResource.Cache
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.dll
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.pdb
+c:\users\g.anthopoulos\documents\visual studio 2013\Projects\FbPopular\FbPopular\obj\Debug\XapCacheFile.xml
+C:\Users\g.anthopoulos\Documents\Visual Studio 2013\Projects\FbPopular\FbPopular\obj\Debug\FbPopular.csprojResolveAssemblyReference.cache
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular.pdb
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\de-AT\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\de-DE\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\de\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\el-GR\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\el\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\en-AU\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\en-CA\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\en\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\es\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr-BE\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr-CA\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr-FR\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\it-CH\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\it-IT\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\it\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\AppManifest.xaml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular_Debug_AnyCPU.xap
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\GoogleAds.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\GoogleAds.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\App.g.cs
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FiltersPage.g.cs
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\MainPage.g.cs
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.g.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-AT.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-DE.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el-GR.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-AU.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-CA.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.es.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-BE.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-CA.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-FR.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-CH.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-IT.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it.resources
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.csproj.GenerateResource.Cache
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\de-AT\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\de-DE\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\de\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\el-GR\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\el\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\en-AU\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\en-CA\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\en\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\es\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\fr-BE\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\fr-CA\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\fr-FR\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\fr\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\it-CH\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\it-IT\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\it\FbPopular.resources.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.dll
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.pdb
+C:\Users\Georgios\Desktop\FbPopular\FbPopular\obj\Debug\XapCacheFile.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular.pdb
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\de-AT\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\de-DE\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\de\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\el-GR\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\el\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\en-AU\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\en-CA\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\en\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\es\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr-BE\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr-CA\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr-FR\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\it-CH\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\it-IT\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\it\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\AppManifest.xaml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\FbPopular_Debug_AnyCPU.xap
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\App.g.cs
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FiltersPage.g.cs
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\MainPage.g.cs
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\Page1.g.cs
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.g.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-AT.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-DE.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el-GR.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-AU.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-CA.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.es.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-BE.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-CA.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-FR.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-CH.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-IT.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it.resources
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.csproj.GenerateResource.Cache
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\de-AT\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\de-DE\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\de\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\el-GR\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\el\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\en-AU\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\en-CA\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\en\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\es\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\fr-BE\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\fr-CA\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\fr-FR\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\fr\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\it-CH\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\it-IT\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\it\FbPopular.resources.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.dll
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\FbPopular.pdb
+C:\Users\g.anthopoulos\Desktop\FbPopular\FbPopular\obj\Debug\XapCacheFile.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\ApplicationIcon.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\FbPopular.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\FbPopular.pdb
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\de-AT\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\de-DE\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\de\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\el-GR\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\el\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\en-AU\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\en-CA\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\en\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\es\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr-BE\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr-CA\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr-FR\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\it-CH\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\it-IT\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\it\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\AppManifest.xaml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Properties\WMAppManifest.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\FbPopular_Debug_AnyCPU.xap
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Newtonsoft.Json.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.Extensions.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.Primitives.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\Newtonsoft.Json.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.Extensions.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\System.Net.Http.Primitives.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\App.g.cs
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FiltersPage.g.cs
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\MainPage.g.cs
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.g.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-AT.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de-DE.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.de.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el-GR.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.el.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-AU.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en-CA.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.en.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.es.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-BE.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-CA.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr-FR.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.fr.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-CH.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it-IT.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.Resources.AppResources.it.resources
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.csproj.GenerateResource.Cache
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\de-AT\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\de-DE\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\de\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\el-GR\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\el\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\en-AU\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\en-CA\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\en\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\es\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\fr-BE\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\fr-CA\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\fr-FR\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\fr\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\it-CH\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\it-IT\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\it\FbPopular.resources.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.dll
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.pdb
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\XapCacheFile.xml
+D:\Latest Wp Projects\projects\Facebook Viral\FbPopular\obj\Debug\FbPopular.csprojResolveAssemblyReference.cache

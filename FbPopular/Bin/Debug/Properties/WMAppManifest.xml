@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="el-GR" />
+    <Language code="en" />
+    <Language code="en-AU" />
+    <Language code="en-CA" />
+    <Language code="en-GB" />
+    <Language code="en-US" />
+    <Language code="fr" />
+    <Language code="fr-FR" />
+    <Language code="fr-CA" />
+    <Language code="el" />
+    <Language code="de" />
+    <Language code="de-DE" />
+    <Language code="it-IT" />
+    <Language code="es" />
+    <Language code="fr-BE" />
+    <Language code="de-AT" />
+    <Language code="it" />
+    <Language code="it-CH" />
+  </Languages>
+  <App xmlns="" ProductID="{11396a67-7d60-44c8-9d32-a380128e0154}" Title="Social Viral" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="AVC IT" Description="" Publisher="AVC IT" PublisherID="{4c34c5fa-68cb-453d-9343-042852989e50}">
+    <IconPath IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="FbPopularToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
+          <Title></Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI IsRelative="true" IsResource="false"></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->
